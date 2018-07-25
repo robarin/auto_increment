@@ -14,6 +14,9 @@ To use the gem version, put the following gem requirement in your `Gemfile`:
 
     gem "auto_increment"
 
+For version with scope_by_related_model
+
+    gem "auto_increment", git: 'https://github.com/robarin/auto_increment.git
 
 ## Usage
 
